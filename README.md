@@ -18,4 +18,8 @@ Real-estate-website Using The React, HTML, CSS.
 ![Screenshot 16](CONTACT_US.png)
 ![Screenshot_17](CONTACT_FROM.png)
 
-
+# Contact 
+```
+rajughongade9022@gmail.com
+```
+[screen_capture.webm](https://github.com/rjghongade/Real-estate-website-react/assets/105046011/0f7cccc5-4370-4d84-851a-2c452c6cde20)
